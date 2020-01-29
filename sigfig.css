@@ -9,14 +9,15 @@
     
     background-image: url(./generic-marquee-lg.d3ed30d2107506afa175a04eef5dbb15.jpg);
    
-    width: 100%;
-    height: 600px;
+    
     background-repeat: no-repeat;
     
     background-position: -100px -100px;
     
     
-    background-size: 1850px 600px;
+    width: 100%;
+    height: 700px;
+    background-size: auto;
     margin-left: 0px;
     margin-right: 0px;
     
@@ -103,3 +104,9 @@ ul{
  
 
 } */
+
+#heading{
+    text-align: center;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size:20px
+}
